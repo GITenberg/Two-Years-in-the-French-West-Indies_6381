@@ -1,0 +1,38 @@
+_repo: Two-Years-in-the-French-West-Indies_6381
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 6381/6381-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Koizumi, Yakumo
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: 'A midsummer trip to the tropics -- Martinique sketches. Les Porteuses
+  ; La grande anse ; Un revenant ; La guiablesse ; La vérette ; Les blanchisseuses
+  ; La pelée ; ''Ti canotié ; La fille de couleur ; Bête-ni-pié ; Ma bonne ; "Pa conbiné,
+  Chè!" ; Yé ; Lys -- Appendix : Some Creole melodies.'
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hearn, Lafcadio, 1850-1904 -- Travel -- Martinique'
+- !lcsh 'Martinique -- Description and travel'
+- !lcc 'F2001'
+- GITenberg
+title: Two Years in the French West Indies
+url: http://www.gutenberg.org/ebooks/6381
